@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AtividadePAM</string>
+    <string name="Email">Email</string>
+    <string name="Senha">Senha</string>
+    <string name="Login">Login</string>
+    <string name="NovoCad">Não possuo cadastro</string>
+    <string name="Cad">Faça aqui seu cadastro!!</string>
+    <string name="Nome">Nome</string>
+    <string name="Telefone">Telefone</string>
+    <string name="CadBtn">Cadastrar</string>
+    <string name="SeusDados">Seus dados cadastrados</string>
+    <string name="Prosseguir">Prosseguir</string>
+    <string name="Vazio"></string>
+    <string name="Saber">Deseja saber mais?? </string>
+    <string name="Textohamb">Somos uma hamburgueria social. Acreditamos que a gastronomia pode ajudar na transformação do ser humano. Um pão, 160g de carne, queijo e sonhos que não cabem na mente.</string>
+    <string name="Contact">Contate-nos</string>
+    <string name="Local">Procure o local mais próximo de você</string>
+    <string name="versao">Versão do aplicativo: 1.10</string>
+    <string name="conta">Entre em contato conosco</string>
+    <string name="contato">Nosso contato</string>
+</resources>
