@@ -18,4 +18,6 @@
     <string name="versao">Versão do aplicativo: 1.10</string>
     <string name="conta">Entre em contato conosco</string>
     <string name="contato">Nosso contato</string>
+    <string name="gravar">Gravar</string>
+    <string name="recuperar">Recuperar</string>
 </resources>
